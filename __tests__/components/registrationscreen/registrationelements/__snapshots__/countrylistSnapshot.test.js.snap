@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot CountryList 1`] = `
+<Component
+  style={
+    Object {
+      "flex": 1,
+      "flexDirection": "column",
+      "width": "100%",
+    }
+  }
+>
+  <TouchableWithoutFeedback
+    accessibilityLabel="BtnCountryListRegistrationID"
+    onPress={[Function]}
+    testID="BtnCountryListRegistrationID"
+  >
+    <Component
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#FFFFFF",
+          "flexDirection": "row",
+          "height": 40,
+          "justifyContent": "space-between",
+          "marginTop": 15,
+          "padding": 0,
+          "paddingRight": 15,
+          "width": "100%",
+        }
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        numberOfLines={1}
+        style={
+          Object {
+            "color": "#000000",
+            "fontFamily": "Roboto-Light",
+            "fontSize": 18,
+            "lineHeight": 21,
+            "paddingLeft": 15,
+          }
+        }
+      >
+        USA
+      </Text>
+      <Polygon />
+    </Component>
+  </TouchableWithoutFeedback>
+  <ShowWarning
+    isshowwarning={false}
+    text="Не верно указана страна"
+  />
+</Component>
+`;

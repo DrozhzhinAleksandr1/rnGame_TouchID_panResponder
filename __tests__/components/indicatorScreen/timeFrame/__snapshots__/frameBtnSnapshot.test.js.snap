@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot FrameBtn 1`] = `
+<TouchableWithoutFeedback
+  onPress={[Function]}
+>
+  <Component
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#1D2E3E",
+        "borderColor": "#FFFFFF",
+        "borderWidth": 1,
+        "height": 26,
+        "justifyContent": "center",
+        "marginHorizontal": 5,
+        "width": 54,
+      }
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontFamily": "Roboto-Regular",
+          "fontSize": 12,
+          "lineHeight": 14,
+        }
+      }
+    >
+      1 мин
+    </Text>
+  </Component>
+</TouchableWithoutFeedback>
+`;

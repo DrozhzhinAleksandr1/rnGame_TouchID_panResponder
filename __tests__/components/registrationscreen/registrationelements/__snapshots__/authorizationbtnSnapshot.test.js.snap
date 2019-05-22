@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot AuthorizationBtn 1`] = `
+<Component
+  style={
+    Object {
+      "flex": 1,
+      "flexDirection": "row",
+      "marginTop": 20,
+    }
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "color": "#ffffff",
+        "fontFamily": "Roboto-Regular",
+        "fontSize": 16,
+        "lineHeight": 19,
+      }
+    }
+  />
+  <TouchableWithoutFeedback
+    accessibilityLabel="BtnAuthorizationInRegistrationID"
+    onPress={[Function]}
+    testID="BtnAuthorizationInRegistrationID"
+  >
+    <Component>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "#4BCEA9",
+            "fontFamily": "Roboto-Regular",
+            "fontSize": 18,
+            "fontWeight": "bold",
+            "lineHeight": 19,
+            "marginLeft": 5,
+          }
+        }
+      />
+    </Component>
+  </TouchableWithoutFeedback>
+</Component>
+`;

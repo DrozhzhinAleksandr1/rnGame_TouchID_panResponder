@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot Card 1`] = `
+<Component
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "height": "100%",
+    }
+  }
+>
+  <Component>
+    <Component>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "#5A6772",
+            "fontFamily": "Roboto-Light",
+            "fontSize": 11,
+            "marginBottom": 5,
+          }
+        }
+      >
+        Продажа
+      </Text>
+    </Component>
+    <Component
+      style={
+        Object {
+          "flex": 1,
+          "flexDirection": "row",
+          "marginBottom": "5%",
+          "marginTop": "2%",
+        }
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "#fff",
+            "fontFamily": "Roboto-Light",
+            "fontSize": 20,
+          }
+        }
+      >
+        0.95068
+      </Text>
+    </Component>
+  </Component>
+</Component>
+`;

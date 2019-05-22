@@ -1,0 +1,137 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot Card 1`] = `
+<Component
+  style={
+    Object {
+      "backgroundColor": "#131F2A",
+      "elevation": 2,
+      "marginBottom": 4,
+      "marginLeft": 8,
+      "marginRight": 4,
+      "shadowColor": "rgba(0, 0, 0, 0.2)",
+      "shadowOffset": Object {
+        "height": 2,
+        "width": 0,
+      },
+      "shadowRadius": 2,
+    }
+  }
+>
+  <TouchableWithoutFeedback
+    onPress={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#1D2E3E",
+        "flex": 1,
+        "flexDirection": "row",
+        "height": 72,
+        "justifyContent": "space-around",
+        "marginTop": 4,
+        "shadowColor": "rgba(0, 0, 0, 0.2)",
+        "shadowOffset": Object {
+          "height": 6,
+          "width": 0,
+        },
+        "shadowOpacity": 1,
+        "shadowRadius": 6,
+        "width": "100%",
+        "zIndex": 1,
+      }
+    }
+  >
+    <Component
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#1D2E3E",
+          "flex": 1,
+          "flexDirection": "row",
+          "height": 72,
+          "justifyContent": "space-around",
+          "marginTop": 4,
+          "shadowColor": "rgba(0, 0, 0, 0.2)",
+          "shadowOffset": Object {
+            "height": 6,
+            "width": 0,
+          },
+          "shadowOpacity": 1,
+          "shadowRadius": 6,
+          "width": "100%",
+          "zIndex": 1,
+        }
+      }
+    >
+      <Component
+        style={
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "height": "100%",
+            "justifyContent": "center",
+          }
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          numberOfLines={1}
+          style={
+            Object {
+              "color": "#FFFFFF",
+              "fontFamily": "Roboto-Regular",
+              "fontSize": 15,
+              "height": 16,
+              "lineHeight": 16,
+            }
+          }
+        />
+      </Component>
+      <Component
+        style={
+          Object {
+            "flex": 2,
+            "height": "100%",
+          }
+        }
+      >
+        <Component
+          style={
+            Object {
+              "flex": 1,
+              "flexDirection": "row",
+              "height": "100%",
+              "marginBottom": 8,
+              "marginTop": 8,
+            }
+          }
+        >
+          <CardQuotation />
+          <Component
+            style={
+              Object {
+                "borderColor": "#5A6772",
+                "borderRightWidth": 1,
+                "height": "100%",
+              }
+            }
+          >
+            <Component
+              style={
+                Object {
+                  "borderColor": "#5A6772",
+                  "borderRightWidth": 1,
+                  "height": "100%",
+                }
+              }
+            />
+          </Component>
+          <CardQuotation />
+        </Component>
+      </Component>
+    </Component>
+  </TouchableWithoutFeedback>
+</Component>
+`;

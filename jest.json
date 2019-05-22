@@ -1,0 +1,22 @@
+{
+    "preset": "react-native",
+    "testPathIgnorePatterns": [
+        "__snapshots__"
+    ],
+    "transformIgnorePatterns": [
+        "node_modules/(?!(jest-)?react-native|react-navigation|react-navigation-redux-helpers)"
+    ],
+    "moduleFileExtensions": [
+        "ts",
+        "tsx",
+        "js",
+        "jsx",
+        "json",
+        "node"
+    ],
+    "globals": {
+        "ts-jest": {
+            "useBabelrc": true
+        }
+    }
+}

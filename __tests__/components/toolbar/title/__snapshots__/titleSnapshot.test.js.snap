@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot title 1`] = `
+<Component
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    accessibilityLabel="TabTitleID"
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "color": "#FFFFFF",
+        "fontFamily": "Roboto-Regular",
+        "fontSize": 20,
+      }
+    }
+    testID="TabTitleID"
+  >
+    Валюты
+  </Text>
+</Component>
+`;

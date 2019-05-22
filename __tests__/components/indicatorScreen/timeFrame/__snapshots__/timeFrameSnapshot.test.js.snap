@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot TimeFrame 1`] = `
+<Component
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#172533",
+      "height": 40,
+      "justifyContent": "center",
+      "width": "100%",
+    }
+  }
+>
+  <Component
+    style={
+      Object {
+        "flexDirection": "row",
+      }
+    }
+  >
+    <FrameBtn
+      frameBtnText="1 мин"
+    />
+    <FrameBtn
+      frameBtnText="5 мин"
+    />
+    <FrameBtn
+      frameBtnText="15 мин"
+    />
+    <FrameBtn
+      frameBtnText="30 мин"
+    />
+    <FrameBtn
+      frameBtnText="1 час"
+    />
+  </Component>
+</Component>
+`;

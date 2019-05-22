@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot FooterBtnInfo 1`] = `
+<TouchableWithoutFeedback>
+  <Component
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#1D2E3E",
+          "borderWidth": 0.5,
+          "height": 40,
+          "justifyContent": "center",
+          "marginHorizontal": 5,
+          "width": 40,
+        },
+        Object {
+          "borderColor": "#FFFFFF",
+        },
+      ]
+    }
+  >
+    <InfoWhite />
+  </Component>
+</TouchableWithoutFeedback>
+`;

@@ -1,0 +1,142 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-touch-id] C:\Projects\test-toch\node_modules\react-native-touch-id\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\User\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\7dc79ae7d21a4e70d96f75f05466767f\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\6a8ba984042c30cfe8e80c6685fd6804\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\aadf1bef56a556f9e5d3624894bdfc29\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\2a3ccbf4d98362a1905f333bebed08fe\AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\8193377b59a4dba3f3b53005c2e3fcaf\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\6743d87635616e6c7ddb98879f6d5bc3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\c6bea86bcd0fbcdc937f3507191918ec\AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\User\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\1bb64cbdf7529cd3e871c0278f0cfedd\AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\cab49d45ea82720c8e31c2534ce73f73\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\4dcf0bcc6fc398cac116d6428d76912e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\4606cb51bdf64a0f13a910d895a3c1d2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\db6dedbb9ea2eb55afb40b76c5c1235d\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:2:5-24
+		INJECTED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\User\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\7dc79ae7d21a4e70d96f75f05466767f\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\User\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\7dc79ae7d21a4e70d96f75f05466767f\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:6:5-73
+MERGED from [:react-native-touch-id] C:\Projects\test-toch\node_modules\react-native-touch-id\android\build\intermediates\manifests\full\release\AndroidManifest.xml:11:5-74
+MERGED from [:react-native-touch-id] C:\Projects\test-toch\node_modules\react-native-touch-id\android\build\intermediates\manifests\full\release\AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:6:22-71
+application
+ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:8:5-25:19
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\User\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\7dc79ae7d21a4e70d96f75f05466767f\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\User\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\7dc79ae7d21a4e70d96f75f05466767f\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\6a8ba984042c30cfe8e80c6685fd6804\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\6a8ba984042c30cfe8e80c6685fd6804\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\aadf1bef56a556f9e5d3624894bdfc29\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\aadf1bef56a556f9e5d3624894bdfc29\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\c6bea86bcd0fbcdc937f3507191918ec\AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\c6bea86bcd0fbcdc937f3507191918ec\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\User\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\1bb64cbdf7529cd3e871c0278f0cfedd\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\User\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\1bb64cbdf7529cd3e871c0278f0cfedd\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:10:7-39
+	android:icon
+		ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:9:7-38
+activity#com.testg.MainActivity
+ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:14:7-23:18
+	android:label
+		ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-touch-id] C:\Projects\test-toch\node_modules\react-native-touch-id\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-touch-id] C:\Projects\test-toch\node_modules\react-native-touch-id\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\User\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\7dc79ae7d21a4e70d96f75f05466767f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\User\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\7dc79ae7d21a4e70d96f75f05466767f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\6a8ba984042c30cfe8e80c6685fd6804\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\6a8ba984042c30cfe8e80c6685fd6804\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\aadf1bef56a556f9e5d3624894bdfc29\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\aadf1bef56a556f9e5d3624894bdfc29\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\2a3ccbf4d98362a1905f333bebed08fe\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\2a3ccbf4d98362a1905f333bebed08fe\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\8193377b59a4dba3f3b53005c2e3fcaf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\8193377b59a4dba3f3b53005c2e3fcaf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\6743d87635616e6c7ddb98879f6d5bc3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\6743d87635616e6c7ddb98879f6d5bc3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\c6bea86bcd0fbcdc937f3507191918ec\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\c6bea86bcd0fbcdc937f3507191918ec\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\cab49d45ea82720c8e31c2534ce73f73\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\cab49d45ea82720c8e31c2534ce73f73\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\4dcf0bcc6fc398cac116d6428d76912e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\4dcf0bcc6fc398cac116d6428d76912e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\4606cb51bdf64a0f13a910d895a3c1d2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\4606cb51bdf64a0f13a910d895a3c1d2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\db6dedbb9ea2eb55afb40b76c5c1235d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\db6dedbb9ea2eb55afb40b76c5c1235d\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Projects\test-toch\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot Main showMenu={true} 1`] = `
+<Component
+  style={
+    Object {
+      "backgroundColor": "#172533",
+      "height": "100%",
+      "left": 0,
+      "position": "absolute",
+      "top": 0,
+      "width": "100%",
+    }
+  }
+>
+  <ScrollView
+    keyboardShouldPersistTaps="handled"
+    style={
+      Object {
+        "width": "100%",
+      }
+    }
+  >
+    <Component
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "column",
+          "marginTop": "20%",
+        }
+      }
+    >
+      <Component
+        style={
+          Object {
+            "alignItems": "center",
+            "marginBottom": "10%",
+          }
+        }
+      >
+        <Input
+          accessibilityLabel="LoginAuthorizationID"
+          error={false}
+          errorText="Ошибка ввода e-mail"
+          filter={/\\^\\(\\(\\[\\^<>\\(\\)\\\\\\[\\\\\\]\\\\\\\\\\.,;:\\\\s@"\\]\\+\\(\\\\\\.\\[\\^<>\\(\\)\\\\\\[\\\\\\]\\\\\\\\\\.,;:\\\\s@"\\]\\+\\)\\*\\)\\|\\("\\.\\+"\\)\\)@\\(\\(\\\\\\[\\[0-9\\]\\{1,3\\}\\\\\\.\\[0-9\\]\\{1,3\\}\\\\\\.\\[0-9\\]\\{1,3\\}\\\\\\.\\[0-9\\]\\{1,3\\}\\\\\\]\\)\\|\\(\\(\\[a-zA-Z\\\\-0-9\\]\\+\\\\\\.\\)\\+\\[a-zA-Z\\]\\{2,\\}\\)\\)\\$/}
+          placeholder="Email"
+          testErrorID="LoginErrorAuthorizationID"
+          testID="LoginAuthorizationID"
+        />
+        <Connect(InputPassWordWithSVG)
+          placeholder="Пароль"
+          warningStyle={
+            Object {
+              "borderColor": "#F86F6F",
+            }
+          }
+        />
+        <Component
+          style={
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "flex-end",
+              "width": 296,
+            }
+          }
+        >
+          <withNavigation(ButtonForgotPassword)
+            text="Забыли пароль?"
+          />
+        </Component>
+        <FormBtnSubmit
+          accessibilityLabel="BtnLoginAuthorizationID"
+          func={[Function]}
+          isEnable={false}
+          testID="BtnLoginAuthorizationID"
+          text="Вход"
+        />
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Object {
+              "color": "#FFFFFF",
+              "fontFamily": "Roboto-Regular",
+              "fontSize": 18,
+              "marginTop": 30,
+            }
+          }
+        >
+          Ещё нет учётной записи?
+        </Text>
+        <withNavigation(ButtonRegistration)
+          text="Зарегистрироваться"
+        />
+      </Component>
+    </Component>
+  </ScrollView>
+  <Connect(ErrorValidation)
+    testIDBtn="AuthorizationBtnId"
+    testIDText="AuthorizationTextId"
+  />
+</Component>
+`;

@@ -1,0 +1,1432 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot WarningMessage 1`] = `
+<Component
+  style={
+    Object {
+      "backgroundColor": "#172533",
+      "flex": 1,
+      "height": "100%",
+      "width": "100%",
+    }
+  }
+>
+  <ScrollView
+    removeClippedSubviews={true}
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#4BCEA9",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Terms of Service Agreement 
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 12,
+          "lineHeight": 16,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Please review this document carefully before using the services available on umarkets.com 
+
+
+ This Terms of Service Agreement (this “Agreement”) states the terms and conditions upon which Maxi Services (Belize) Limited (herein “the Company”, “Umarkets,” “we” or “us”), will provide services to you on the www.umarkets.com (herein the “Service”). These Terms constitute a contractual agreement between you (the Client) and us. By visiting, accessing, using, joining and/or participating in (herein collectively “using”) the Service, you express your understanding and acceptance of these Terms. As used in this document, the terms “the Client”, “you” or “your” refers to you, any entity you represent, your representatives, successors, appointees and affiliates, and any of your or their devices. If you do not agree to be bound by these Terms, cease using the Service of the Company immediately and inform us about your disagreement.
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#4BCEA9",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Eligibility 
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 12,
+          "lineHeight": 16,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      You must be over eighteen (18) years of age to use the Service, unless the age of consent in your jurisdiction is over eighteen (18) years of age, in which case you must be at least the age of consent in your jurisdiction. You acknowledge and guarantee that you are at least the minimum age of consent coinciding with the given clause. We reserve the right to ask you for proof of age and your account may be suspended until satisfactory proof of age is received.
+
+
+Use of the Service is not permitted where prohibited and you acknowledge that you are not otherwise prohibited to use the Service. Without limiting the foregoing, Use of the Service is not permitted if you are located in or are a resident or citizen of the United States of America, Canada, Turkey, European Union and Japan.
+
+
+You acknowledge that you are not located in and are not a resident or citizen of the United States of America , Canada, Turkey, European Union and Japan.
+
+
+In addition, Use of the Service is not permitted if you are located in or are a resident or citizen of high risk and non-cooperative jurisdictions, as defined by both the Financial Action Task Force (FATF) and Caribbean Financial Action Task Force (CFATF). The list of high risk and noncooperative jurisdictions includes Bosnia and Herzegovina, Iran, Syria, Uganda, Vanuatu, Yemen, Haiti, Suriname, Democratic People's Republic of Korea. This list is subject to periodic updates by relevant agencies.
+
+
+Use of the Service is not permitted if you are a politically exposed person (PEP). By using the Service you declare that you are not PEP.
+
+
+You acknowledge and are fully aware that your ability to access the Service does not necessarily mean that you are eligible to use the Service.
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#4BCEA9",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Grant of Use; Termination 
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 12,
+          "lineHeight": 16,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      We grant you a non-exclusive, non-transferable, limited right to access, non-publicly display, and use the Service, including all content and services available therein (the “Content”), on your computer consistent with this Agreement (the “Grant”). 
+
+
+The Grant is terminable (including a partial termination or limitation) by us at will for any reason and at our sole discretion, with or without prior notice. 
+
+
+Upon termination we may, but shall not be obligated to: (i) delete or deactivate your Account (as defined below), (ii) block your e-mail and/or IP addresses or otherwise terminate your use of the Service, and/or (iii) take any other action to prevent your use of the Service. You may also terminate your participation in the Service by providing notice  to us at any time. Upon termination for any reason, the grant of your right to use the Service shall be terminated, but all other portions of this Agreement will be maintained. Pursuant to the terms herein, and without limiting the terms of further indemnification and limitations of liability terms herein, you acknowledge that we are not responsible to you or any third party for losses incurred in the case of termination of the Grant.
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#4BCEA9",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Provision of services section. Termination of use of the services.
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 12,
+          "lineHeight": 16,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Granting right to use the Company's services may be terminated at the Company's request in the event of the following circumstances: 
+
+
+1.  violation of the agreement on your part; 
+
+
+2.  your refusal to provide or confirm the information requested by the Company in accordance with this Agreement. 
+
+
+3.  lack of funds on your trading account in the period of more than 1 calendar month. 
+
+
+Granting the right to use the Company's service is also automatically terminated in the event of the following circumstances: 
+
+
+1.  loss of validity of your representations and guarantees under this Agreement; 2.  recognizing you as a bankrupt and appointment of a trustee of all or most of your property and assets; 
+
+
+3.  your death or incapacity; 
+
+
+4.  liquidation of your company (if you represented the interests of a legal entity) 
+
+
+The client has the right to terminate service at any time by sending the company a notice of intention to terminate using of services. Upon termination of services, provisions in  the «Deposit and withdrawal of funds» and «Promotions and Bonuses sections (regulating the withdrawal of funds to the Client, including the Client that has used the bonus program) are applicable
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#4BCEA9",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Accounts. The Service. Transactions. 
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 12,
+          "lineHeight": 16,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      You must create an account on the Service (an “Account”) to use Service of the Company. By this Agreement you represent and warrant that all information that you provide to us in creating your Account is complete and accurate.  You shall update such information when it changes or at the Company’s request. 
+
+
+The client acquires the right to use the Service immediately upon confirmation of the client's e-mail address.
+
+
+By creating an Account on behalf of a company or other entity, you represent and warrant that you have the authority and capacity to enter into this Agreement and bind the entity on its behalf. 
+
+
+You shall not use another person or entity’s Account without authorization.  You shall be solely responsible for maintaining the confidentiality of and restricted access to your Account.  You shall be solely responsible for all activities that occur under your Account.  You shall notify us immediately of any breach of security or unauthorized use of your Account.  Pursuant to the terms herein, and without limiting the terms of the further indemnification and limitations of liability terms herein, the Company shall not be liable for any losses resulting from any unauthorized use of your Account and you hereby indemnify us and hold us harmless for any such unauthorized use. 
+
+
+You may only have one Account.  You may not share an Account with any other person or entity. If you wish to open more trading accounts you should contact your account manager. 
+
+
+If the Company have reasonable grounds that an Account have been opened with the intention to fraud or/and multiply accounts have been created without approve of account manager, the Company reserve the right to cancel any transaction related to that Account 
+
+
+You authorize the Company, directly or through third parties, to make, at any time, any inquiries we consider necessary to validate your identity.  This may include asking you for further information, requiring you to provide personal information and other information that will allow us to reasonably identify you, requiring you to take steps to confirm ownership of your email address or financial instruments, or verifying your information against third party databases or through other sources.  We may also request to see your passport or other identifying documents at any time.   
+
+
+We offer Islamic Forex accounts also known as swap-free Forex accounts, because, within this kind of account, no swap or roll-over interest will be charged to or incurred on positions that are held overnight. These accounts comply with Islamic religious principles. According to the Islamic religion, any business transaction in which one of the parties has to pay or receive some interest from another party is forbidden. 
+
+
+Swap-free-accounts shall be used strictly in good faith for Muslim religious compliance reasons only. We reserve the right to require an adequate justification for and/or proof of the necessity of need of any such conversion. Furthermore, we reserve the right to refuse the processing of any such request at its own discretion, without being obliged to provide any explanation or justification. 
+
+
+You acknowledge that the use of swap-free trading accounts to make profit from swaps is not allowed. We reserve the right to revoke the swap-free status granted to any trading account at any time at its own discretion, without being obliged to provide any explanation or justification. 
+
+
+In the event that we detect any form of abuse, fraud, manipulation, interest/cashback arbitrage or other forms of deceitful or fraudulent activity in regard to any swap-free accounts, we reserve the right, at any time: 
+
+
+with immediate effect to revoke the swap-free status from any trading account of such client 
+
+
+to correct and recover any un-accrued swaps and any related un-accrued interest expenses and/or costs pertaining to any of such client’s swap-free accounts during the period for which such accounts were converted into swap-free 
+
+
+with immediate effect, to close all trading accounts of such client with us, nullify all trades carried out in such client’s trading accounts with us and cancel all profits garnered in such client’s trading account with us 
+
+
+We may change, modify or amend in part, or fully, the above described swap-free-account policy at our own discretion, without being obliged to provide any explanation or justification. 
+
+
+The Service allows you, inter alia, to engage in transactions based on certain assets, including currencies, financial instruments that defined as CFD’s (contracts for difference) and other securities.  You acknowledge and understand that you engage in every action, omission, purchase, sale, trade or other transaction (collectively, “Transactions”) on the market as a principal and that we do not act as your agent on the Service in any financial or trading operations.  You acknowledge that you are directly and fully responsible for fulfilling all your obligations regarding your Transactions on the market carried out with the help of the Service of the Company. 
+
+
+After the completion of all security and identification procedures associated with the Service, we will grant you with the access to the Service unless agreed or stated otherwise. All references to our hours of trading are in Greenwich Mean Time (“GMT”) using 24-hour format. Our Service will normally be available continuously from 22:00 GMT Sunday until 22:00 GMT Friday (winter time), or from 23:00 GMT Sunday until 23:00 GMT Friday (Daylights Saving  Time) every week, excluding public holidays where the financial markets do not operate and cases where the market is closed due to  no liquidity in the financial instruments. Please, check our website for more details on operating times for each financial instrument in every period of time. We reserve the right to suspend or modify the operating hours on our own discretion and on such event our website will be updated in order to inform you accordingly. 
+
+
+The Clients have the possibility to execute trading operations on the phone during the trading hours. 
+
+
+You understand and acknowledge that the Company can close transactions for contracts for difference using the last available price on the market on the day, when the contract expires. The closing time is specified on the Company’s website. 
+
+
+The Company offers its Clients different types of spreads according to the type of the account. 
+
+
+The Company offers a fixed spread on the web platform. The fixed spread changes depending on time and market conditions. 
+
+
+The Company offers a floating spread on MT4 trading platform. The floating spread on the Forex market and CFD's market means a constantly changing value between Ask and Bid which depends on the market volatility and liquidity. 
+
+
+You acknowledge that the minimal timeframe for manual execution of the transaction on the webplatform is 3 minutes. We reserve a right to cancel transactions in cases where the timeframe between the opening of the transaction and its manual closure was less than 3 minutes. There is no minimal timeframe for open positions on the MT4 terminal. 
+
+
+Maximum period for keeping an open position on the web-platform is 21 days. We reserve a right to close your transactions with open positions outstanding for more than 21 days.  If order opened on the contract with the specific expiration date, such order will be closed after 21 day or on contract’s expiration date (one of the events that occur earlier).  
+
+
+The stop-out level is the level where open positions will be closed automatically in order to prevent further losses and entering an account to the negative balance 
+
+
+On the MT4 terminal the stop-out level is calculated as: (equity/used margin)*100%. The default stop-out level on the MT4 terminal is equal to 50% for minimal and standard types of accounts and is equal to 80% for gold and platinum types of accounts 
+
+
+On the web-platform the stop-out level is calculated as: the real funds on your account at the given moment of time taking into account the opened (floating) loss and/or profit positions/ financial result of the trading account without taking into account the opened positions*100%. The default stop-out level on the web-platform is equal to 0% 
+
+
+The company reserves the right to change the stop-out level in its sole discretion without notice with immediate effect due to the market conditions. 
+
+
+The thresholds of minimum and maximum sizes of lots depend on the type of the account, as specified in the web-site of the Company. We reserve a right to change the thresholds of minimum and maximum sizes of lots in our sole discretion.  
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#4BCEA9",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      YOU UNDERSTAND AND ACKNOWLEDGE THAT YOU MAY LOSE MONEY, AS A RESULT OF YOUR USE OF THE SERVICE (INCLUDING AS A RESULT OF YOUR EXECUTION OF TRANSACTIONS) AND THAT YOU TAKE SOLE RESPONSIBILITY FOR SUCH LOSSES. 
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 12,
+          "lineHeight": 16,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Your use of the Service is strictly limited by the terms of this Agreement (including any documents referenced or incorporated herein) and the technical limitations placed on the Service. 
+
+
+The Service carries out your Transactions on an execution-only basis.  We and the Service are entitled to execute your Transactions even if the Transaction is not beneficial to you.  We do not and will not manage your Transactions, nor will we advise you on your Transactions.  You understand and acknowledge that we assume no responsibility whatsoever for your Transactions.  You understand and acknowledge that we assume no responsibility whatsoever for monitoring your Transactions.  If at any time we choose, in our sole discretion, to monitor your Transactions for any reason, we assume no responsibility for your Transactions and have no obligation to advise you regarding your Transactions.  Without limiting the foregoing, we are under no obligation to make margin calls or to close out any of your open positions. 
+
+
+Customers are given the opportunity to perform trading operations on the phone during trading hours. 
+
+
+To execute trading operations over the phone Company’s employees may provide technical assistance to Clients in the opening/closing / changing parameters of transactions  (take profit, stop loss) on behalf of Clients on the phone. If customers do not agree with the use of the Service of the Company, they may notify the Company or not to use this Service. 
+
+
+In order to open / close / change transaction or request setting the order, the Customer must contact the Customer Support department (account manager). 
+
+
+The Client also has the right to ask the Company for obtaining the regular technical assistance in opening/closing / changing transactions using the phone. In this case, the Company's account manager performs regular telephone communication with the Client in order to facilitate the Customer in performing transactions. 
+
+
+When opening transactions using the phone you need to: 
+
+
+1) Identify yourself by entering the surname, first name, patronymic and login account.
+
+
+2) If necessary answer the possible control question (date of birth, and other personal data provided to the Company by the Client). 
+
+
+3) Confirm the conditions to open (option type, position size, direction, the expiration of the option) the transaction (sell-buy), take profit, stop loss (if necessary). The account manager reports to the Client the current rate of the asset and receives the Client's consent to the opening of the transaction at a specified rate.
+
+
+When closing transactions by the phone you need to: 
+
+
+1) Identify yourself by entering the surname, first name, patronymic and login account.
+
+
+2) If necessary answer the possible control question (date of birth, and other personal data provided to the Company by the Client).
+
+
+3) Accurately specify the transaction that needs to be closed.
+
+
+When changing transactions by the phone you need to: 
+
+
+1) Identify yourself by entering the surname, first name, patronymic and login account.
+
+
+2) If necessary answer the possible control question (date of birth, and other personal data provided to the Company by the Client).
+
+
+3) Accurately specify the transaction whose parameters you want to change, and specify what changes need to be implemented.
+
+
+Before entering into transactions by phone the margin balance required to open a trade should be checked. 
+
+
+In order to ensure the quality of service, telephone calls can be recorded. You agree that all communications between you and Company’s staff will be recorded without preliminary notice. You acknowledge that these records and the results of their transcription can be used as evidence in case of disputes. 
+
+
+The Client agrees that the remote method of opening / closing / changing transactions from the date of receipt of the command / Client's consent to the opening / closing / changing transactions may be fluctuations in the rate of the asset. The Client accepts these terms and undertakes not to have any claims on such fluctuations in the case of a remote method of opening / closing / changing transactions. 
+
+
+Confirmation of execution of the Client's instructions when opening / closing / changing transactions for the Company will be the agreement on the method of opening / closing / changing transactions, expressed through the adoption of the terms of this Agreement, as well as recording a phone conversation with the Client. 
+
+
+The use described herein of a method of performing trading operations does not lead to the conclusion by the Company and the Client any separate contract, including the contract of trust management, etc. All trading operations performed using technical assistance from the Company are made by the Client and at the Client’s discretion. The Company, as in all other cases, is not responsible for the results of these transactions. The calculation of the prices, payouts or losses related to Transactions at the time the Transaction is opened and closed will be based on our estimate of actual market prices and the expected level of interest rates, implied volatilities and other market conditions during the life of the Transaction.  These values are based on complex arithmetic calculations as determined by us in our sole discretion.  These calculations include a spread in favor of us, which means that the values involved may differ substantially from prices available on primary markets where similar transactions are conducted. 
+
+
+We do not support physical delivery of currency (or any other securities) in the settlement of any Transactions.  Any gains or losses you experience as a result of a Transaction will be deposit to or withdrawn from your Account after your Transaction has been completed. 
+
+
+You acknowledge and agree that in the event that any Transaction is completed at prices that do not reflect actual market prices due to any reason, including an undetected programming error or glitch or any other reason which results in a mispricing, we reserve the right to cancel or roll-back such Transactions.
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#4BCEA9",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Restrictions on Use of the Service and Transactions.  
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 12,
+          "lineHeight": 16,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      You, your Transactions and your use of the Service must satisfy all of the following terms, conditions and restrictions, as well as the other terms, conditions and restrictions contained in this Agreement, in order to qualify for use and continued use of the Service (“User Restrictions”): 
+
+
+You may not cheat, defraud, or mislead us in any manner. 
+
+
+You may not use the Service in any manner we have not explicitly approved and intended for your use. 
+
+
+You may not disable, circumvent, or otherwise interfere with security-related features of the Service, or those that enforce limitations on the use of the Service. 
+
+
+You may not use the Service for any illegal activities. 
+
+
+You may not deposit or otherwise transfer any funds which have originated from any illegal activities into the Service and/or your Account. 
+
+
+In conjunction with your use of the Service, 
+
+
+You may not use any software viruses or any computer code, file or program designed to interrupt, destroy, limit or monitor the functionality of any computer software, hardware or telecommunications equipment in conjunction with your use of the Service. 
+
+
+You may not use the Service in any way that may expose us to criminal or civil liability in any jurisdiction. 
+
+
+You may not take any action that imposes, or may impose, in our sole discretion, an unreasonable or disproportionately large load on our technology infrastructure or otherwise make excessive demands on it. 
+
+
+You may not use any automated means, including robots, crawlers, or data mining tools to monitor or use the Service or to make Transactions. If it discovered that a transaction is or has been executed by a trading robot or any automatic software, we will consider this grounds for termination of the Agreement and cancel the requested transaction. This clause does not apply to the MT4 expert advisers. 
+
+
+You may not “deep-link” to any part of the Service. 
+
+
+You may not resell or permit access to the Service to any third party. 
+
+
+You may not copy any material made accessible by the Service for resale or for any other purpose other than your own use of the Service. 
+
+
+You may use the information acquired on the Service for the sole purpose of executing Transactions on the Service. 
+
+
+You may not use the Service for any purpose which may be tortuous, abusive, intrusive of another’s privacy, harassing, libelous, defamatory, obscene, threatening, hateful or otherwise inappropriate, unlawful or criminal. 
+
+
+You may not furnish any false or incorrect data or information in connection with the Service. You must maintain all information found on the Service or that you have otherwise provided to us correct and up-to-date at all times. 
+
+
+You may not harass us, our employees, independent contractors or other agents in any manner. 
+
+
+You agree and acknowledge that we may use both manual and automated methods to ensure your  compliance  with  the  User  Restrictions.  We retain the sole right, in    our discretion, to determine whether you have complied with the User Restrictions. 
+
+
+If we become aware of a possible violation of the User Restrictions or any other violation of this Agreement, we may initiate an investigation into the possible violation that may include gathering information on you, any complaining party and any other material or information which we find to be reliable in our sole discretion. You agree to comply with all reasonable requests by us pursuant to our investigation of violations. 
+
+
+No employee and/or former employee who currently works or used to work on a full time  or part time basis for us or any of our related entities shall, during the term of the employee and/or former employee’s work with us, or any of our related entities and after termination of service become a client of any of our brands (either directly or indirectly, alone or with partners, associates, affiliates or any other third party) without our prior written approval. Should we establish that the employee and/or former employee is trading personally and/ or via a third party with any brand of the Company without our prior written approval we shall consider all the trading to be abusive and/or inappropriate. In such an event, the employee and/or former employee’s trading account(s) and all open positions shall be closed immediately and any funds held within the account shall be confiscated. 
+
+
+We reserve the right to take appropriate action against you for any breach of the Use Restrictions or other unauthorized use of the Service, including civil, criminal and injunctive redress in addition to termination of the Grant. Any use of our computer systems not explicitly authorized by this Agreement is a violation of this Agreement and certain domestic, foreign and international lawsWe reserve the right to cancel, roll-back and/or close any Transactions which we determine, in our sole discretion, to be made in violation of this Agreement (including User Restrictions). Without limiting the foregoing, if we believe that you have made repeated Transactions in violation of this Agreement (including User Restrictions), we may cancel, roll-back and/or close all your Transactions.
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#4BCEA9",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Content on the Service
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 12,
+          "lineHeight": 16,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      When using the Service, you may be exposed to a variety of information, data and content from a variety of sources (collectively, “Content”).  Content may include market information (“Market Information”) like charts, news, analyst opinions, research reports, graphs or other information, data or content that we have drawn from third parties (“Third Party Content”).  The Company does not control and is not responsible for any Third Party Content.  All Content is presented to you solely for information purposes and “AS-IS”.  The Company makes no representations or warranties as to the accuracy, timeliness, completeness or authenticity of any Content and we shall not be liable for any liability arising from your use of any Content outside of the Service.  
+
+
+The Company assumes no responsibility for your trading decisions made as a result of reviewing the given Content. 
+
+
+Market Information is not intended to be provided as investment advice.  We do not endorse or approve any Market Information, but only make it available to you for your own information and convenience for use on the Service. 
+
+
+We may link to third-party websites which are completely independent of us.  We assume no responsibility for the accuracy of the content of the independent third parties. 
+
+
+We reiterate that all Content (including Market Information and Third Party Content) is provided to you “AS-IS” and for your use exclusively on the Service.  Without limiting the foregoing, you acknowledge and understand that the Content may not correspond exactly with “real-world” values outside of the system.  For example, the listed exchange rate for a pair of currencies on the Service may lag behind the actual “real-world” exchange rate for that pair of currencies.  Market Information may quickly become unreliable for various reasons, including, for example, changes in market conditions or economic circumstances.  We undertake no obligation to update any Content (including Market Information) and we may discontinue offering any or all Content at any time without notice. 
+
+
+You may not copy, reproduce, distribute, transmit, broadcast, display, sell, license or otherwise exploit the Content for any purpose whatsoever.  
+
+
+All Content, including Third Party Content and text, graphical images, photographs, music, videos, software, scripts, trademarks, service marks and logos are subject to copyright, trademark and/or other proprietary rights under the laws of applicable jurisdictions, including domestic laws, foreign laws, and international conventions.    Except as otherwise explicitly permitted, you agree not to copy, modify, publish, transmit, distribute, participate in the transfer or sale of, create derivative works of, or in any other way exploit, in whole or in part, any Content. 
+
+
+By using our services you agree to be bound fully by all our terms and conditions the Company may amend or revise this Agreement at any time by posting the amended terms on the Site and, by continuing to trade through the platform, you affirm that you agree to be bound by future revisions. Whenever such changes to the terms &conditions of this Web site are made, the Company will post such changes on the Web site. All amended terms shall be effective 10 days after their initial posting on the Web site, or as of the first time that you use our services after such amendments were made, whichever is sooner. If you do not agree to be bound by the changes to the terms and conditions of this Agreement, do not use or access our services, and inform us in writing immediately.
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#4BCEA9",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Deposits and Withdrawals
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 12,
+          "lineHeight": 16,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      In order to engage in Transactions, you must deposit funds into your Account (a “Deposit”).  You may make a Deposit into your account by using any of the forms of payment made available on the service from time to time and at our sole discretion.  Without limiting the foregoing, we reserve the right to add or remove forms of making Deposits at any time. 
+
+
+If at any time we allow you to make a Deposit in any base currency other than United States Dollars (“USD”), you acknowledge and understand that your credit card may be debited additional amounts to cover exchange rates and credit card or charge card fees. Credit card payments are provided by: Up Services Ltd. and also performed by OrangePay. You hereby acknowledge and confirm that the Company is engaging an independent third party or payment service provider for payment collection. You acknowledge and confirm that the third party or payment service provider is acting on your instruction to transfer the funds on your behalf to the Company with no liabilities, obligations or warranties. You agree and confirm that you have no right to claim any transferred funds from the third party or payment service provider in any ways, or under any title or under any circumstances. You are clear on the fact that any third party or payment service provider will just facilitate your business with the Company and that you were not offered any form of financial services from them. You are clear that you should not use the third party/payment service provider or its affiliates as the financial services vehicle but a conventional and trusted service provider to facilitate payment only. You confirm that you have no further and future claims against the third party or payment service provider after settlement has been made. 
+
+
+If at any time we allow you to make a Deposit by wire transfer, you may only ever use one bank account, which must be based in your country of residence and must be in your name.  An authentic SWIFT confirmation or transfer confirmation satisfactory to us, must be sent to us evidencing any Deposit made by wire transfer.  Your failure to submit such a confirmation may result in the return of any Deposit made by wire transfer. 
+
+
+If at any time you make a Deposit by any other method (including e-wallets, money transfer services and internet payment vendors), the Company assumes the right to implement any rules, provisions and regulations we deem necessary with regards to such Deposits. Company Agent – Fairiprises Ltd., 15 The Sycamores Clonshaugh Woods, Clonshaugh Dublin 13, Republic of Ireland. Central America. Phone: +44 (203) 6958926.
+
+
+You hereby acknowledge and confirm that the Company is engaging an independent third party or payment service provider for payment collection. You acknowledge and confirm that the third party or payment service provider is acting on your instruction to transfer the funds on your behalf to the Company with no liabilities, obligations or warranties. You agree and confirm that you have no right to claim any transferred funds from the third party or payment service provider in any ways, or under any title or under any circumstances. 
+
+
+You are clear on the fact that any third party or payment service provider will just facilitate your business with the Company and that you were not offered any form of financial services from them. You are clear that you should not use the third party/payment service provider or its affiliates as the financial services vehicle but a conventional and trusted service provider to facilitate payment only. You confirm that you have no further and future claims against the third party or payment service provider after settlement has been made. 
+
+
+The funds in your account may change as a result of the Transactions you execute.  You must use the funds in your account to execute Transactions.  When you execute a Transaction, the funds will be withdrawn from your account in order to open a position.  When your Transaction is completed, your profits or losses will be applied to your Account. 
+
+
+The funds credited to your account will be deposited into the Company bank accounts and credit organizations on the territory of European and Asian countries (not in offshore zones) and may not be segregated from other funds, including our own funds or the funds of other users of the Service.  You acknowledge and agree that we will not pay you any interest on the funds that you have deposited into your Account.  You acknowledge and agree that we may use your funds in any manner until such time as it is withdrawn by you in accordance with this Agreement. 
+
+
+In case if there is no trading activity in your account for a period of 90 consecutive calendar days, starting from the 91st day, the Company reserves the right to charge an account maintenance fee of 5% of the account balance for each calendar month. The above-noted commission is charged until the resumption of transactions in the corresponding account.
+
+
+You may submit a request for a withdrawal of funds in your Account (a “Withdrawal”).   The Company reserves the right to execute a Withdrawal in any reasonable form in our sole discretion in accordance with our policies and anti-money laundering regulations.  Unless otherwise consented to by us in our sole discretion, any funds from a Withdrawal must be deposited directly into the same method in which the original funds were deposited into your Account (i.e., funds deposited into your account by wire transfer may only be withdrawn by depositing it back into the same bank account which made the wire transfer).  We may institute limits on the amount of funds you may withdraw in any given period of time. 
+
+
+The Company shall remain liable for the repayment of the funds to the Client in accordance with the Client’s request for a withdrawal even in case when the contractual relations with the client are terminated.  
+
+
+The minimum withdrawal amount is $50. 
+
+
+In the case of less than 5 independent trades were made, the Account will be charged for an additional fee of 5% of the withdrawal amount. 
+
+
+We may request additional documentation supporting your authentication, prior to the execution of a withdrawal order, according to the regulations of the Anti Money Laundering (AML) institutions or credit card companies. In such case the information and documentation provided by the Client is a prerequisite for execution of a withdrawal order.  
+
+
+We may perform some of our credit card clearing transactions through our affiliated companies. 
+
+
+We reserve the right to implement any other security and anti-money laundering rules, provisions and regulations we deem necessary or desirable in order to prevent or limit money laundering, fraud or any other crime or action which we believe may expose us to liability or loss. 
+
+
+We may, in our sole discretion, refuse to process a Withdrawal request or place a payment hold on any part of all of your funds in your Account for any reason, including if we have a reasonable suspicion that you have breached this Agreement. 
+
+
+You agree that you shall pay all transaction costs, including currency exchange costs and wire fees.  We reserve the right to invoice you for any transaction costs we encounter as a result of your use of the Service. 
+
+
+The Client agrees and acknowledges that he would pay brokerage fees, spreads, rolling commissions, handling commissions and/or other fees or charges according to the Company fee structure. We reserve the right to change the fee structure in our sole discretion and without additional notice with immediate effect.  
+
+
+You shall be solely responsible for the payment of all taxes, excise or other payments which you are supposed to pay according to the legislation of the country of your residency and which arise out of your use of the Service of the Company.  Without limiting the foregoing, you agree that in case such a requirement arises out of the legislation of the country of your jurisdiction, the Company may withhold the tax from the sums which result from your activity with the Company. In this case, the Company reserves the right to withhold amounts for such taxes or to invoice you for any such applicable taxes if this is the case according to the legislation of the country of your jurisdiction.  Upon creation of your Account or prior to processing of a Withdrawal, we may require you to complete certain tax documents.  We may withhold all funds in your Account until such time as you submit these documents to us.  If you fail to submit these documents to us within sixty (60) days of receipt of these documents, we may suspend your Account until such time as you submit the documents; alternatively, we may terminate your use of the Service. 
+
+
+You are solely responsible for maintaining and informing us of the accurate details of your financial institutions.  You acknowledge that you are solely responsible for mispayments (whether to or from us) arising from your provision of incorrect or obsolete information. 
+
+
+If any funds are accrued to your Account (whether by a Deposit or by Transactions) and we subsequently determine that any of such funds accrued as a result a breach of this Agreement, we may (without prejudice to any of our other rights) set-off the amount of the funds accrued in breach, plus any related fees, from any funds remaining in your Account.  In the alternative, we may send you an invoice for the set-off amount and you shall pay such invoice no later than two (2) business days after the invoice date.
+
+
+If, for any reason (including as a result of losses arising from Transactions), you are under an obligation to pay any amount to us which exceeds the funds in your Account, we may send you an invoice for such amount and you shall pay such invoice no later than two (2) business days after the invoice date. 
+
+
+If we determine or form a reasonable belief that you have been using the Service in breach of this Agreement (including in breach of the Use Restrictions), we may, in our sole discretion, terminate the Grant and withhold all funds that have accrued to your Account including funds that you have deposited and any profits, bonuses or other amounts accrued as a result of Transactions. 
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#4BCEA9",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Promotions and bonuses
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 12,
+          "lineHeight": 16,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      The Company has the right to offer various promotions and bonuses to the new clients as well as the existing clients. 
+
+
+The possibility to take part in promotions and to obtain a bonus is a privilege for the Client, and the Company may deny their provision to the Client at any time at its sole discretion
+
+
+The conditions for promotions and bonuses are specified in the given section as well as on the Company’s website. 
+
+
+In some cases the Company has the right to provide the bonuses to its clients on the conditions which are agreed with the clients individually. The company can provide exclusive bonuses for certain VIP-clients from time to time.  
+
+
+Bonuses are only transferred to a client’s account after the client has provided all the necessary identification documents.
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#4BCEA9",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Types of bonuses: 
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 12,
+          "lineHeight": 16,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      a) Deposit bonus.
+
+
+The given bonus is provided by the Company to the clients when the Client deposits his/her account. The amount of the bonus is defined by the Company as a percentage of the amount of the money which the Client deposits. 
+
+
+The given bonus presupposes the following volume of trade by the client. 
+
+
+Each 1000$ of bonus money the volume of trade must reach: 
+
+
+10,000,000$ volume of trade for each bonus 1,000$ for the total bonus of up to 10000$; 
+
+
+20,000,000$ volume of trade for each bonus 1,000$ for the total bonus of 10000$ to 30000$; 
+
+
+30,000,000$ volume of trade for each bonus 1,000$ for the total bonus of more than 30000$. 
+
+
+In case the Client has two or more accounts in the Company, trading volume for the bonus must be reached for each account in accordance with the amount of the bonus transferred and trading volume of all deals made on these accounts. In case the Client has several bonuses the withdrawal of the bonus and the income from trading activities is not allowed until the volume of trade is reached. 
+
+
+The volume of trade does not include the transactions which are opened in the mixed way, scalping transactions, and transactions which last less than three minutes. In case there is no trading activity on the account during any period longer than three months from the moment the bonus is deposited and till the moment the volume of trade must be reached, the company has the right to debit the bonus money as well as the whole income on the account of the client for the given period without any notice or agreement with the client. 
+
+
+In those cases when during any period more than 3 months from the day the bonus is credited until the volume of trade condition is fulfilled: 
+
+
+- there is no activity on the Client's trading account; 
+
+
+- the current balance of the Client's account (with opened positions) does not exceed the amount of the bonus received from the Company; 
+
+
+the Company has the right to debit bonus funds, as well as all income received on the Client's account with bonus funds without warning and without receiving any consent from the Client. 
+
+
+In case there are any suspicions of the fraud with the purpose to reach the necessary volume of trade or use of the bonus, the trading account of the client can be adjusted. 
+
+
+The withdrawal of the bonus and the income from trading activities is not allowed until the volume of trade is reached. When the volume of trade is reached, the whole balance of the account together with the bonuses, deposits and income can be withdrawn without any limitations. There are no time limits for reaching the volume of trade for the bonus. 
+
+
+In case the Client withdraws the money from the account before he/she fulfills the conditions on the volume of trade for the bonus, all the opened positions on the Client’s account are closed and the money left on the account of the client is cleared in accordance with the following formula: 
+
+
+Account balance = current account balance – the amount of the bonus/es provided – total income obtained by the client since the time the bonus was activated for all closed positioned which were opened after the bonus had been activated (positive total income only). 
+
+
+b) Advance bonus.
+
+
+The given bonus is provided by the Company to the clients upon the agreement with the clients before the clients deposit their accounts, but on the condition of further depositing the account by the clients. 
+
+
+When such a bonus is provided, the Company and the client agree upon: 
+
+
+- the amount of the bonus;
+
+
+- the terms when the client shall deposit the account (if this issue is not agreed upon, the client and the company define this term as 7 calendar days);
+
+
+- the sum that the client shall deposit his/her account with.
+
+
+If the client does not deposit the account with the necessary some of money and in due time, the Company has the right to debit the advance bonus provided, as well as the whole amount of income, which was obtained with the help of the Client’s account during the time period from the provision of the advance bonus till debiting the bonus money by the Company. 
+
+
+Until the client deposits the account with the agreed sum of money or until the bonus is debited by the Company, the client’s account is blocked by the Company. 
+
+
+The conditions for the trade volume for the advance bonus are similar to those of the deposit bonus. The company has the right to change and/or cancel the bonus and special offers program at any time. 
+
+
+The conditions of the special offers and bonuses, provided by the Company, are defined by the Company and the clients are informed about them additionally. If no other conditions are agreed upon by the Company and the client and the offer concerns money bonuses for the clients, the conditions about the amount of trade, the possibility to withdraw the money from the account and other rules are defined in the way, presupposed for the deposit bonus. 
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#4BCEA9",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Privacy Policy
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 12,
+          "lineHeight": 16,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      We retain a separate Privacy Policy, which is incorporated herein by reference, and your assent to this Agreement also signifies your assent to the Privacy Policy.  We reserve the right to amend the Privacy Policy at any time by posting such amendments to the Service.  No other notification may be made to you about any amendments, so periodically check the Privacy Policy for changes.  Your continued use of the Service following such amendments will constitute your acceptance of such amendments, regardless of whether you have actually read them.
+
+
+The Client gives consent to process his/her personal data. The processing of the Personal Data shall be construed as the Company’s actions/operations with the personal data, including the collection, systematization, accumulation, storage, clarification/updating/modification, use, distribution (inclusive of transfer), depersonalization, blocking and destruction of any personal data and a right of publication the personal data in publicly-accessible way. The consent is giving of the Client’s own free will and in his/her interest. The consent is giving for the purposes of Company. The following information recognized as generally accessible personal data: surname, first name and patronymic, date of birth, where the subject of personal data is permanently living, and the other information relating to the identity of the subject of personal data. The Client understands the content of actions for processing of personal data and the necessity of its realization and knows the right to abandon an action of consenting. This consent is in force from the day of acceptance by the Client of the present Agreement and up to the day of the abandonment of consenting.
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#4BCEA9",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Email and SMS newsletter agreement 
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 12,
+          "lineHeight": 16,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      You agree to receive the information from the Company in the form of e-mails, phone calls and sms to the phone number that you have transferred us. 
+
+
+You can unsubscribe from the information from the Company at any time by sending an e-mail to customers@umarkets.com or contacting to your account manager. 
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#4BCEA9",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Recordings 
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 12,
+          "lineHeight": 16,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      You agree and acknowledge that all conversations between you and the  Company staff may be recorded without a previous warning. You agree and acknowledge that these recordings and the transcriptions could be used as an evidence in any further dispute.
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#4BCEA9",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Risk Statement
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 12,
+          "lineHeight": 16,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      You acknowledge and understand that your use of the Service, including the execution of any Transactions, is at your own risk.  Without limiting the foregoing, you acknowledge and accept the high level of risk inherent in the use of the Service and as set out in the “Risk Statement” available on the Service, which is incorporated herein by reference.  Your acceptance of and assent to this Agreement also signifies your assent to the Risk Statement and all its terms.  
+
+
+You understand that currency market trading carries risks of loss. We ask you to responsibly assess whether these risks are acceptable to you. 
+
+
+By accepting this Agreement, you confirm that you have studied these risks, assessed the possible consequences of your actions, and fully accept these risks. 
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#4BCEA9",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Limitation of Liability and Disclaimer of Warranties 
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 12,
+          "lineHeight": 16,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Under no circumstances will we be liable for direct, indirect, incidental, special, consequential or exemplary damages resulting from any aspect of your use of the service, whether such damages arise from: 
+
+
+1. Your use, misuse or inability to use the Service of the Company.
+
+
+2. Any of your decisions on execution of certain transactions and any reasons for such decisions.
+
+
+3. Accidental or intentional suspension or termination of the Service of the Company, its modifications, changes.
+
+
+The Company is not responsible for the results of use by the Client of customer services, products and information of third parties, presented or advertised in connection with the Service of the Company. 
+
+
+In the event that you are involved in a dispute with any third parties, you hereby release us, our officers, employees, agents and successors-in-right from claims, demands and damages (actual and consequential) of every kind or nature, known and unknown, suspected and unsuspected, disclosed and undisclosed, arising out of or in any way related to such disputes and/or the Service. 
+
+
+You expressly agree that your use of the Service is at your sole and exclusive risk. 
+
+
+The Service is provided “AS-IS” and without any warranty or condition, express, implied or statutory.  
+
+
+Some jurisdictions do not allow certain limitations of liability or disclaimer under this Agreement. In such cases, the Company operates in accordance with the laws and regulatory requirements of those jurisdictions.
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#4BCEA9",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Dispute Resolution
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 12,
+          "lineHeight": 16,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      At Umarkets we take customers’ complaints very seriously. If you have any complaint in relation to the services provided to you, you should inform us immediately. 
+
+
+Set out below are the procedures for the handling of complaints and disputes with respect to the services provided by Umarkets.
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#4BCEA9",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      How to submit a complaint
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 12,
+          "lineHeight": 16,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      The complaints should be communicated in writing to the account manager, assigned to the account subject to the complaint. A copy of the complaint should be sent to a special dedicated email address: dispute@umarkets.com 
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#4BCEA9",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      How received complaints are dealt with 
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 12,
+          "lineHeight": 16,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      When a written complain is received, the accountant manager has 7 days to attempt to resolve the complaint directly with the client. If the complaint cannot be resolved within 7 days by the relevant account manager it will be escalated to the Compliance Officer. Within 7 days of being notified of the complaint, The Compliance Officer will ensure that an acknowledgement letter is sent to the client identifying a specific Compliance Officer as the person who will handle the complaint.
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#4BCEA9",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Maximum time frame for dealing with a complaint
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 12,
+          "lineHeight": 16,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      The Compliance Officer will act as an impartial investigator and will attempt to resolve the complaint with the client within 7 days of the acknowledgement letter being sent. If the complaint cannot be resolved within the 7day period then a more detailed letter will be written to the client explaining this fact and, if necessary, seeking further information. The Compliance Officer will then have an additional 7 days to resolve the complaint. 
+
+
+If the complaint is more complex and takes longer than 28 days, we will communicate the reasons for the delay. 
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#4BCEA9",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Remedies for resolving complaints
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 12,
+          "lineHeight": 16,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Each complaint received by the Company is handled case-by-case, and applicable remedies will vary due to the unique circumstances of each complaint. These remedies include, but are not limited to: written or verbal explanation of the issue; referring to and explaining disclosure documents and inherent risks; offering a product for a reduced rate; refunding or crediting a client account; assisting complainants in formulating or lodging complaints; and determining and implementing case-specific remedies. Complaints will be handled at no charge to the complainant, subject to statutory requirements.
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#4BCEA9",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Recording and monitoring of complaints 
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 12,
+          "lineHeight": 16,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      The Compliance Officer ensures that a register of all complaints is maintained. The Compliance Officer, will at a minimum, review the complaints history monthly and document the results and any comments or recommendations in the relevant monthly compliance report. In addition, Company’s complaints history will be reviewed as part of the annual compliance audit/compliance monitoring program.
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#4BCEA9",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Governing law and jurisdiction 
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 12,
+          "lineHeight": 16,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Governing law and jurisdiction – This Agreement  shall be governed by the law of Clonshaugh Dublin, Republic of Ireland and the parties hereby consent to the exclusive jurisdiction of the courts of Republic of Ireland.
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#4BCEA9",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      Final provisions
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 12,
+          "lineHeight": 16,
+          "marginBottom": 15,
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      This Agreement and the fact that you use the Service of the Company, do not suggest the presence of a partnership, joint venture, agency, franchise, sales representative or employment relationship. Nothing in this Agreement is intended, nor will be deemed, to confer rights or remedies upon any third party. 
+
+
+We reserve the right to amend this Agreement (including any documents referenced or incorporated herein) at any time by posting such amendments to the Service with the obligation to their publication on the Company's website. You acknowledge that your continued use of the Service following such amendments shall constitute your acceptance of such amendments, regardless of whether you have actually read them. 
+
+
+This Agreement (including those documents referenced incorporated herein), as may be amended from time to time, constitutes the entire agreement between you and us and supersede all prior agreements between you and us. 
+
+
+Our failure to enforce any provision of this Agreement will not be construed as a waiver of any provision or right. 
+
+
+If any part of this Agreement is determined to be invalid or unenforceable pursuant to applicable law, then the invalid and unenforceable provision will be deemed superseded by a valid, enforceable provision that most closely matches the intent of the original provision and the remainder of this Agreement shall continue in effect. 
+
+
+You acknowledge that you have read this Agreement, including the documents incorporated herein by reference, and any additional relevant documentation, and agree to its terms and conditions.  You acknowledge that you have independently evaluated the desirability of entering into this Agreement and are not relying on any representation, guarantee, or statement other than as set forth in this Agreement. 
+
+
+This Agreement is not assignable, transferable or sublicensable by you except with our prior written consent, but may be assigned or transferred by us without restriction.  We may resell, assign or transfer our rights and obligations under this Agreement at any time without restriction and without notice to or consent from you. 
+
+
+Force Majeure.  We shall not be responsible for reasonable delay or failure in performance of any obligation pursuant to this Agreement caused by acts of God (or natural disasters), terrorism, strikes, embargoes, fires, war or other causes beyond our reasonable control (collectively, “Force Majeures”).  In the case of Force Majeures, we may, in our sole discretion, terminate or suspend the Service and/or cancel, close and/or reverse any open Transactions. 
+
+
+The titles of the sections in this Agreement are for convenience only and have no legal value. In the form in which it is used in the Agreement, the term "including" is illustrative and not limiting. 
+
+
+In the event that the Agreement (including the documents incorporated herein), translated and available in a language other than English, the English version of the Agreement takes precedence in case of conflict. 
+
+
+Your use of the Service of the Company is strictly limited to the terms of this Agreement (including the documents incorporated herein), and technical limitations associated with the Service. The present Agreement includes also the following applications: 
+
+
+- Risk Statement 
+
+
+- Privacy policy 
+
+
+- Trading conditions and other information related to the trading conditions published on the website of the Company.
+
+
+This Agreement is considered to be concluded by the Company and the Client in Clonshaugh Dublin, Republic of Ireland. This Agreement shall be effective as of the date of the Client’s acceptance of the present
+
+
+Agreement (including the documents incorporated herein). The Client’s acceptance of the Agreement is concluded when the Client registers to the Company’s website and opens a trading account. 
+    </Text>
+    <Component
+      style={
+        Object {
+          "alignItems": "center",
+        }
+      }
+    >
+      <FormBtnSubmit
+        accessibilityLabel="BtnRegistrationInRegistrationID"
+        func={[Function]}
+        isEnable={true}
+        testID="BtnRegistrationInRegistrationID"
+        text="Ознакомлен"
+      />
+    </Component>
+  </ScrollView>
+</Component>
+`;

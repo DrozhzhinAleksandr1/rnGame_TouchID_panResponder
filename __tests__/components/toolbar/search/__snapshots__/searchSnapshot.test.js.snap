@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot Search 1`] = `
+<TouchableWithoutFeedback
+  accessibilityLabel="openSearchInputID"
+  testID="openSearchInputID"
+>
+  <Component
+    style={
+      Object {
+        "alignItems": "center",
+        "height": "100%",
+        "justifyContent": "center",
+        "width": 56,
+      }
+    }
+  >
+    <Icon_search />
+  </Component>
+</TouchableWithoutFeedback>
+`;

@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot toolbar 1`] = `
+<TouchableWithoutFeedback
+  accessibilityLabel="ButtonMenuID"
+  onPress={[Function]}
+  testID="ButtonMenuID"
+>
+  <Component
+    style={
+      Object {
+        "alignItems": "center",
+        "height": "100%",
+        "justifyContent": "center",
+        "width": 56,
+      }
+    }
+  >
+    <Icon_menu />
+  </Component>
+</TouchableWithoutFeedback>
+`;

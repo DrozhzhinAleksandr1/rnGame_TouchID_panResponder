@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot LanguageBtn  1`] = `
+<TouchableWithoutFeedback>
+  <Component
+    style={
+      Object {
+        "height": 24,
+        "marginRight": 32,
+        "width": 24,
+      }
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#5A6772",
+          "flex": 1,
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+          "lineHeight": 24,
+          "textAlign": "center",
+        }
+      }
+    />
+  </Component>
+</TouchableWithoutFeedback>
+`;

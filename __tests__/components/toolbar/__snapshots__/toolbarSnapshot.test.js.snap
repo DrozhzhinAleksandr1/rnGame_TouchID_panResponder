@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot toolbar 1`] = `
+<Component
+  style={
+    Object {
+      "backgroundColor": "#172533",
+      "flex": 1,
+      "flexDirection": "row",
+      "justifyContent": "space-between",
+      "maxHeight": 56,
+      "minHeight": 56,
+      "shadowColor": "rgba(0, 0, 0, 0.15)",
+      "shadowOffset": Object {
+        "height": 4,
+        "width": 0,
+      },
+      "shadowOpacity": 1,
+      "shadowRadius": 4,
+      "zIndex": 1,
+    }
+  }
+>
+  <Component
+    style={
+      Object {
+        "flex": 1,
+        "flexDirection": "row",
+      }
+    }
+  >
+    <withNavigation(Connect(Menu)) />
+    <Connect(Title) />
+    <Connect(Search) />
+  </Component>
+</Component>
+`;
+
+exports[`create snapshot toolbar 2`] = `
+<Component
+  style={
+    Object {
+      "backgroundColor": "#172533",
+      "flex": 1,
+      "flexDirection": "row",
+      "justifyContent": "space-between",
+      "maxHeight": 56,
+      "minHeight": 56,
+      "shadowColor": "rgba(0, 0, 0, 0.15)",
+      "shadowOffset": Object {
+        "height": 4,
+        "width": 0,
+      },
+      "shadowOpacity": 1,
+      "shadowRadius": 4,
+      "zIndex": 1,
+    }
+  }
+>
+  <Component
+    style={
+      Object {
+        "flex": 1,
+        "flexDirection": "row",
+      }
+    }
+  >
+    <withNavigation(Connect(Menu)) />
+    <Connect(Title) />
+    <Connect(Search) />
+  </Component>
+</Component>
+`;

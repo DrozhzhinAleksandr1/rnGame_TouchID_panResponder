@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot LanguageBtns  1`] = `
+<Component
+  style={
+    Object {
+      "flexDirection": "row",
+      "height": 24,
+      "marginLeft": 16,
+      "marginTop": 32,
+    }
+  }
+>
+  <Component
+    style={
+      Object {
+        "height": 24,
+        "marginRight": 16,
+        "width": 24,
+      }
+    }
+  >
+    <Icon_language />
+  </Component>
+  <LanguageBtn
+    accessibilityLabel="BtnRuMenuID"
+    styleBool={false}
+    testID="BtnRuMenuID"
+    text="Ru"
+  />
+  <LanguageBtn
+    accessibilityLabel="BtnEnMenuID"
+    styleBool={false}
+    testID="BtnEnMenuID"
+    text="En"
+  />
+  <LanguageBtn
+    accessibilityLabel="BtnEsMenuID"
+    styleBool={false}
+    testID="BtnEsMenuID"
+    text="Es"
+  />
+  <LanguageBtn
+    accessibilityLabel="BtnArMenuID"
+    styleBool={false}
+    testID="BtnArMenuID"
+    text="Ar"
+  />
+</Component>
+`;

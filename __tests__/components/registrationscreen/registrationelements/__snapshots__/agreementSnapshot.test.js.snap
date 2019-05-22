@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot AgreementBtn 1`] = `
+<Component
+  style={
+    Object {
+      "flex": 1,
+      "flexDirection": "column",
+      "marginBottom": 25,
+      "width": "100%",
+    }
+  }
+>
+  <Component
+    style={
+      Object {
+        "flexDirection": "row",
+        "height": 20,
+        "width": "100%",
+      }
+    }
+  >
+    <CheckBox />
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "marginLeft": 5,
+          },
+          Object {
+            "color": "#ffffff",
+            "fontFamily": "Roboto-Light",
+            "fontSize": 14,
+            "lineHeight": 16,
+            "textAlignVertical": "bottom",
+          },
+        ]
+      }
+    >
+       
+    </Text>
+  </Component>
+  <TouchableWithoutFeedback
+    accessibilityLabel="BtnAgreementRegistrationID"
+    onPress={[Function]}
+    testID="BtnAgreementRegistrationID"
+  >
+    <Component>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "textAlign": "left",
+              "textDecorationLine": "underline",
+            },
+            Object {
+              "color": "#ffffff",
+              "fontFamily": "Roboto-Light",
+              "fontSize": 14,
+              "lineHeight": 16,
+              "textAlignVertical": "bottom",
+            },
+          ]
+        }
+      >
+         
+      </Text>
+    </Component>
+  </TouchableWithoutFeedback>
+</Component>
+`;

@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot MenuPopUp  1`] = `
+<TouchableWithoutFeedback
+  accessibilityLabel="BtnTurnAll"
+  onPress={[Function]}
+  testID="BtnTurnAll"
+>
+  <Component
+    style={
+      Object {
+        "flexDirection": "row",
+        "height": 24,
+        "marginLeft": 16,
+        "marginTop": 40,
+      }
+    }
+  >
+    <Icon_arrow
+      style={
+        Object {
+          "height": 24,
+          "width": 24,
+        }
+      }
+    />
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#FFFFFF",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 18,
+          "lineHeight": 20,
+          "marginLeft": 16,
+          "textAlignVertical": "bottom",
+        }
+      }
+    >
+      Свернуть все
+    </Text>
+  </Component>
+</TouchableWithoutFeedback>
+`;

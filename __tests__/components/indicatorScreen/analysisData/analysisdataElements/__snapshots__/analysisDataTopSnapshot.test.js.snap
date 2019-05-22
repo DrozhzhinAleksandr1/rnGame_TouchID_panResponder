@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot AnalysisDataTop 1`] = `
+<Component
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#1D2E3E",
+      "flexDirection": "row",
+      "height": 48,
+      "justifyContent": "space-around",
+      "shadowColor": "rgba(0, 0, 0, 0.15)",
+      "shadowOffset": Object {
+        "height": 4,
+        "width": 0,
+      },
+      "shadowOpacity": 1,
+      "shadowRadius": 4,
+      "width": "100%",
+      "zIndex": 1,
+    }
+  }
+>
+  <AnalysisDataTopLeftBtn
+    quotationNum="0.94527"
+    quotationText="Котировка:"
+  />
+  <Component
+    style={
+      Object {
+        "borderLeftColor": "#5A6772",
+        "borderLeftWidth": 1,
+        "height": "100%",
+        "width": 0.5,
+      }
+    }
+  />
+  <Connect(AnalysisDataTopRightBtn)
+    action="buy"
+    btnText="покупать"
+  />
+</Component>
+`;

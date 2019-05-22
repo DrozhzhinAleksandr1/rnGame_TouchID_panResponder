@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot Input 1`] = `
+<TouchableWithoutFeedback
+  disabled={true}
+>
+  <Component
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "height": 56,
+          "justifyContent": "center",
+          "marginBottom": 15,
+          "paddingLeft": 15,
+          "paddingRight": 15,
+          "width": 296,
+        },
+        Object {
+          "backgroundColor": "#1D2E3E",
+        },
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "fontFamily": "Roboto-Light",
+            "fontSize": 22,
+          },
+          Object {
+            "color": "#5A6772",
+          },
+        ]
+      }
+    />
+    <ShowSpiner />
+  </Component>
+</TouchableWithoutFeedback>
+`;

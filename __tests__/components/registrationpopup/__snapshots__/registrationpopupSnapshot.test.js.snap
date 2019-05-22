@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot RegistrationPopUp 1`] = `
+<TouchableWithoutFeedback
+  accessibilityLabel="BtnShowToolbarDisablerID"
+  onPress={[Function]}
+  testID="BtnShowToolbarDisablerID"
+>
+  <Component
+    style={
+      Object {
+        "backgroundColor": "rgba(0,0,0,0)",
+        "bottom": 40,
+        "elevation": 10,
+        "maxHeight": 58,
+        "minHeight": 58,
+        "position": "absolute",
+        "width": "100%",
+        "zIndex": 10,
+      }
+    }
+  />
+</TouchableWithoutFeedback>
+`;
+
+exports[`create snapshot RegistrationPopUp 2`] = `null`;

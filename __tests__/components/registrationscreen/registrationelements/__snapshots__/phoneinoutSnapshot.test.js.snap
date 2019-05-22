@@ -1,0 +1,119 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot PhoneInput 1`] = `
+<Component
+  style={
+    Object {
+      "flex": 1,
+      "flexDirection": "column",
+      "marginBottom": 10,
+      "width": "100%",
+    }
+  }
+>
+  <Component
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#FFFFFF",
+          "borderColor": "#ffffff",
+          "borderWidth": 2,
+          "flexDirection": "row",
+          "height": 40,
+          "padding": 0,
+          "width": "100%",
+        },
+        null,
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#000000",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 18,
+          "lineHeight": 21,
+          "marginLeft": 15,
+        }
+      }
+    >
+      +
+      380
+    </Text>
+    <Component
+      style={
+        Object {
+          "borderLeftColor": "#5A6772",
+          "borderLeftWidth": 0.5,
+          "height": "70%",
+          "marginLeft": 15,
+          "width": 1,
+        }
+      }
+    />
+    <Component
+      style={
+        Object {
+          "flex": 1,
+          "flexDirection": "column",
+        }
+      }
+    >
+      <Component
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#FFFFFF",
+              "flex": 1,
+              "flexDirection": "row",
+              "height": 36,
+              "justifyContent": "space-between",
+              "paddingRight": 5,
+            },
+          ]
+        }
+      >
+        <TextInput
+          accessibilityLabel="InputPhoneRegistrationID"
+          allowFontScaling={true}
+          onBlur={[Function]}
+          onChangeText={[Function]}
+          placeholder="Телефон"
+          placeholderTextColor="#CECECE"
+          selectionColor="#5A6772"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "white",
+                "color": "#000",
+                "fontFamily": "Roboto-Light",
+                "fontSize": 18,
+                "height": "100%",
+                "marginLeft": 15,
+                "marginRight": 5,
+                "padding": 0,
+                "width": "80%",
+              },
+              null,
+            ]
+          }
+          testID="InputPhoneRegistrationID"
+          underlineColorAndroid="white"
+          value=""
+        />
+      </Component>
+    </Component>
+  </Component>
+  <ShowWarning
+    isshowwarning={false}
+    testID="PasswordErrorRegistrationID"
+    text="Неверно указан номер телефона"
+  />
+</Component>
+`;

@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot MenuPopUp  1`] = `
+<Component
+  style={
+    Object {
+      "backgroundColor": "#1D2E3E",
+      "height": "100%",
+    }
+  }
+>
+  <Component
+    style={
+      Object {
+        "backgroundColor": "#1D2E3E",
+        "height": 40,
+        "width": "100%",
+        "zIndex": 2,
+      }
+    }
+  />
+  <withNavigation(Connect(LoginBtn))
+    closeDrawer={[Function]}
+  />
+  <Connect(TurnBtn) />
+  <withNavigation(Connect(ExitBtn))
+    closeDrawer={[Function]}
+  />
+  <Component
+    style={
+      Object {
+        "backgroundColor": "#5A6772",
+        "height": 0.25,
+        "marginTop": 32,
+        "width": "100%",
+      }
+    }
+  />
+  <Connect(LanguageBtns) />
+</Component>
+`;

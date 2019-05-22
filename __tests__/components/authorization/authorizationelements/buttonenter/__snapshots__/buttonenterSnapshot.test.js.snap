@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot InputPassWordWithSVG 1`] = `
+<Component
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <Component
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#FFFFFF",
+          "borderColor": "#FFFFFF",
+          "borderWidth": 2,
+          "flexDirection": "row",
+          "height": 40,
+          "justifyContent": "space-between",
+          "paddingLeft": 15,
+          "paddingRight": 15,
+          "width": 296,
+        },
+        null,
+      ]
+    }
+  >
+    <TextInput
+      accessibilityLabel="PasswordInputAuthorizationID"
+      allowFontScaling={true}
+      autoCorrect={false}
+      onBlur={[Function]}
+      onChangeText={[Function]}
+      placeholderTextColor="#CECECE"
+      secureTextEntry={true}
+      selectTextOnFocus={false}
+      selectionColor="#5A6772"
+      spellCheck={false}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "white",
+            "color": "#000",
+            "fontFamily": "Roboto-Light",
+            "fontSize": 18,
+            "height": "100%",
+            "padding": 0,
+            "width": 252,
+          },
+          null,
+        ]
+      }
+      testID="PasswordInputAuthorizationID"
+      underlineColorAndroid="white"
+      value=""
+    />
+    <TouchableWithoutFeedback
+      accessibilityLabel="BtnShowPassAuthorizationID"
+      onPress={[Function]}
+      testID="BtnShowPassAuthorizationID"
+    >
+      <Component>
+        <Dontshow />
+      </Component>
+    </TouchableWithoutFeedback>
+  </Component>
+  <ShowWarning
+    isshowwarning={false}
+    testID="PasswordErrorAuthorizationID"
+    text="Ошибка ввода пароля"
+  />
+</Component>
+`;

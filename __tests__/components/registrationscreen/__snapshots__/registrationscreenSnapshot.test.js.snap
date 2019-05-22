@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot RegistrationScreen 1`] = `
+<Component
+  style={
+    Object {
+      "backgroundColor": "#172533",
+      "height": "100%",
+      "left": 0,
+      "position": "absolute",
+      "top": 0,
+      "width": "100%",
+    }
+  }
+>
+  <withNavigation(Connect(ThanksForJoiningPopUp)) />
+  <ScrollView
+    contentContainerStyle={
+      Object {
+        "alignItems": "center",
+      }
+    }
+    keyboardShouldPersistTaps="handled"
+    style={
+      Object {
+        "flex": 1,
+        "height": "100%",
+        "width": "100%",
+      }
+    }
+  >
+    <Component
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "flexDirection": "column",
+          "marginBottom": 25,
+          "marginTop": 25,
+          "width": 296,
+        }
+      }
+    >
+      <Input
+        accessibilityLabel="InputFirstNameRegistrationID"
+        action={[Function]}
+        errorText="Ошибка ввода имени"
+        filter={/\\(\\?=\\(\\^\\[\\^<>\\(\\)\\\\\\[\\\\\\]\\\\\\\\\\.,;:\\\\s@"#'!\\?\\$%\\^&\\*_=\\+-\\]\\)\\)\\[\\^<>\\(\\)\\\\\\[\\\\\\]\\\\\\\\\\.,;:@"#!\\?\\$%\\^&\\*_=\\+\\]\\{0,199\\}\\(\\[\\^<>\\(\\)\\\\\\[\\\\\\]\\\\\\\\\\.,;:\\\\s@"#!\\?\\$%'\\^&\\*_=\\+-\\]\\$\\)/}
+        placeholder="Имя"
+        testErrorID="FirstNameErrorRegostrationID"
+        testID="InputFirstNameRegistrationID"
+      />
+      <Input
+        accessibilityLabel="InputLastNameRegistrationID"
+        action={[Function]}
+        errorText="Ошибка ввода фамилии"
+        filter={/\\(\\?=\\(\\^\\[\\^<>\\(\\)\\\\\\[\\\\\\]\\\\\\\\\\.,;:\\\\s@"#'!\\?\\$%\\^&\\*_=\\+-\\]\\)\\)\\[\\^<>\\(\\)\\\\\\[\\\\\\]\\\\\\\\\\.,;:@"#!\\?\\$%\\^&\\*_=\\+\\]\\{0,199\\}\\(\\[\\^<>\\(\\)\\\\\\[\\\\\\]\\\\\\\\\\.,;:\\\\s@"#!\\?\\$%'\\^&\\*_=\\+-\\]\\$\\)/}
+        placeholder="Фамилия"
+        testErrorID="LastNameErrorRegostrationID"
+        testID="InputLastNameRegistrationID"
+      />
+      <Input
+        accessibilityLabel="InputEmailRegistrationID"
+        action={[Function]}
+        errorText="Ошибка ввода e-mail"
+        filter={/\\^\\(\\(\\[\\^<>\\(\\)\\\\\\[\\\\\\]\\\\\\\\\\.,;:\\\\s@"\\]\\+\\(\\\\\\.\\[\\^<>\\(\\)\\\\\\[\\\\\\]\\\\\\\\\\.,;:\\\\s@"\\]\\+\\)\\*\\)\\|\\("\\.\\+"\\)\\)@\\(\\(\\\\\\[\\[0-9\\]\\{1,3\\}\\\\\\.\\[0-9\\]\\{1,3\\}\\\\\\.\\[0-9\\]\\{1,3\\}\\\\\\.\\[0-9\\]\\{1,3\\}\\\\\\]\\)\\|\\(\\(\\[a-zA-Z\\\\-0-9\\]\\+\\\\\\.\\)\\+\\[a-zA-Z\\]\\{2,\\}\\)\\)\\$/}
+        placeholder="Email"
+        testErrorID="EmailErrorRegostrationID"
+        testID="InputEmailRegistrationID"
+      />
+      <withNavigation(CountryList)
+        textTitle="Страна"
+      />
+      <Connect(PhoneInput) />
+      <withNavigation(AgreementBtn)
+        textTitle="Заполняя форму регистрации,"
+        textWithClick="я принимаю условия обработки персональных данных."
+      />
+      <FormBtnSubmit
+        accessibilityLabel="BtnRegistrationInRegistrationID"
+        func={[Function]}
+        isEnable={false}
+        testID="BtnRegistrationInRegistrationID"
+        text="Зарегистрироваться"
+      />
+      <withNavigation(AuthorizationBtn)
+        textLogin="Войти"
+        textTitle="Уже есть аккаунт ?"
+      />
+    </Component>
+  </ScrollView>
+  <Connect(ErrorValidation)
+    testIDBtn="RegistrationBtnId"
+    testIDText="RegistrationTextId"
+  />
+</Component>
+`;

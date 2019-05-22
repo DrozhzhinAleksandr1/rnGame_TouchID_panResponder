@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot SlidingValue 1`] = `
+<Component
+  style={
+    Object {
+      "alignItems": "center",
+      "flexDirection": "row",
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "color": "#FFFFFF",
+        "fontFamily": "Roboto-Light",
+        "fontSize": 14,
+        "lineHeight": 14,
+        "marginRight": 8,
+        "marginTop": 3,
+      }
+    }
+  >
+    R1
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "color": "#FFFFFF",
+        "fontFamily": "Roboto-Regular",
+        "fontSize": 14,
+        "lineHeight": 16,
+      }
+    }
+  >
+    0.946587
+  </Text>
+</Component>
+`;

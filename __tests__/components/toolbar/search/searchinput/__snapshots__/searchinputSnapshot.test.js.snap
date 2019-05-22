@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot Search 1`] = `
+<Component
+  style={
+    Object {
+      "flex": 1,
+      "flexDirection": "row",
+    }
+  }
+>
+  <TouchableWithoutFeedback
+    accessibilityLabel="searchFocus_mainID"
+    onPress={[Function]}
+    testID="searchFocus_mainID"
+  >
+    <Component
+      style={
+        Object {
+          "alignItems": "center",
+          "height": "100%",
+          "justifyContent": "center",
+          "width": 56,
+        }
+      }
+    >
+      <Icon_search_gray />
+    </Component>
+  </TouchableWithoutFeedback>
+  <TextInput
+    accessibilityLabel="searchInput_TitleID"
+    allowFontScaling={true}
+    autoCorrect={false}
+    autoFocus={true}
+    onChangeText={[Function]}
+    selectionColor="#5A6772"
+    spellCheck={false}
+    style={
+      Object {
+        "color": "#FFF",
+        "flex": 1,
+        "fontFamily": "Roboto-Regular",
+        "fontSize": 18,
+      }
+    }
+    testID="searchInput_TitleID"
+    underlineColorAndroid="transparent"
+  />
+  <TouchableWithoutFeedback
+    accessibilityLabel="search_closeID"
+    onPress={[Function]}
+    testID="search_closeID"
+  >
+    <Component
+      style={
+        Object {
+          "alignItems": "center",
+          "height": "100%",
+          "justifyContent": "center",
+          "width": 56,
+        }
+      }
+    >
+      <Icon_close />
+    </Component>
+  </TouchableWithoutFeedback>
+</Component>
+`;

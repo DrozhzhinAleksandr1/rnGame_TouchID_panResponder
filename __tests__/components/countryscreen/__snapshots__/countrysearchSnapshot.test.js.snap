@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot CountrySearch 1`] = `
+<Component
+  style={
+    Object {
+      "borderColor": "#5A6772",
+      "borderRadius": 20,
+      "borderWidth": 1,
+      "flex": 1,
+      "flexDirection": "row",
+      "height": 40,
+      "marginLeft": 15,
+      "marginRight": 15,
+    }
+  }
+>
+  <TouchableWithoutFeedback
+    accessibilityLabel="BtnIconCountryID"
+    onPress={[Function]}
+    testID="BtnIconCountryID"
+  >
+    <Component
+      style={
+        Object {
+          "alignItems": "center",
+          "height": "100%",
+          "justifyContent": "center",
+          "width": 56,
+        }
+      }
+    >
+      <Icon_search_gray />
+    </Component>
+  </TouchableWithoutFeedback>
+  <TextInput
+    accessibilityLabel="SearchInputCountryID"
+    allowFontScaling={true}
+    onChangeText={[Function]}
+    placeholder="Укажите страну"
+    placeholderTextColor="#CECECE"
+    selectionColor="#5A6772"
+    style={
+      Object {
+        "color": "#FFFFFF",
+        "flex": 1,
+        "fontFamily": "Roboto-Light",
+        "fontSize": 14,
+        "marginRight": 10,
+        "padding": 0,
+      }
+    }
+    testID="SearchInputCountryID"
+    underlineColorAndroid="transparent"
+  />
+</Component>
+`;

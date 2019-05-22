@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot FavoriteBtn 1`] = `
+<TouchableWithoutFeedback
+  onPress={[Function]}
+>
+  <Component
+    style={Object {}}
+  >
+    <StarGreen />
+  </Component>
+</TouchableWithoutFeedback>
+`;

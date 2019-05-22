@@ -1,0 +1,132 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot Card 1`] = `
+<Component
+  style={
+    Object {
+      "backgroundColor": "#131F2A",
+      "elevation": 2,
+      "height": 206,
+      "marginBottom": 4,
+      "shadowColor": "rgba(0, 0, 0, 0.2)",
+      "shadowOffset": Object {
+        "height": 2,
+        "width": 0,
+      },
+      "shadowRadius": 2,
+      "width": 726,
+    }
+  }
+>
+  <Component
+    style={
+      Object {
+        "backgroundColor": "#1D2E3E",
+        "flexDirection": "row",
+        "height": 48,
+        "justifyContent": "space-between",
+      }
+    }
+  >
+    <OpenCardQuotation
+      numbFromServer="1.09046"
+    />
+    <Component
+      style={
+        Object {
+          "position": "relative",
+        }
+      }
+    >
+      <Component
+        style={
+          Object {
+            "backgroundColor": "rgba(23, 37, 51, 0.86)",
+            "height": 28,
+            "left": -20,
+            "position": "absolute",
+            "top": 10,
+            "width": 40,
+            "zIndex": 9999,
+          }
+        }
+      >
+        <Component
+          style={
+            Object {
+              "alignItems": "center",
+              "flex": 1,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Object {
+                "color": "#fff",
+                "fontFamily": "Roboto-Regular",
+                "fontSize": 14,
+              }
+            }
+          >
+            0.44
+          </Text>
+        </Component>
+      </Component>
+    </Component>
+    <OpenCardQuotation
+      numbFromServer="1.09002"
+    />
+  </Component>
+  <OpenCell
+    Diff="-0.00005"
+    ESV="1.09002"
+    Max="1.09111"
+    Min="1.08764"
+    Rate="-0.0046"
+    SSV="1.09007"
+    isOpen={true}
+    opencellItem={
+      Object {
+        "closeTitle": "Закрытые:",
+        "diferenceTitle": "Разница:",
+        "maxTitle": "Макс.:",
+        "minTitle": "Мин.:",
+        "openTitle": "Открытые:",
+        "percentdifereceTitle": "Разница%:",
+      }
+    }
+  />
+  <Component
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#1D2E3E",
+        "height": 35,
+        "justifyContent": "center",
+      }
+    }
+  >
+    <Component>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "#8E969E",
+            "fontFamily": "Roboto-Light",
+            "fontSize": 14,
+          }
+        }
+      >
+        Последнее обновление: 
+        11.09.2018 | 08:23:16
+      </Text>
+    </Component>
+  </Component>
+</Component>
+`;

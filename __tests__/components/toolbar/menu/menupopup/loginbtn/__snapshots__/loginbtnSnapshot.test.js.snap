@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot NoticeBtn  1`] = `
+<TouchableWithoutFeedback
+  accessibilityLabel="BtnNoticeMenuID"
+  onPress={[Function]}
+  testID="BtnNoticeMenuID"
+>
+  <Component
+    style={
+      Object {
+        "flexDirection": "row",
+        "height": 24,
+        "marginLeft": 16,
+        "marginTop": 40,
+      }
+    }
+  >
+    <Icon_news
+      style={
+        Object {
+          "height": 24,
+          "width": 24,
+        }
+      }
+    />
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#FFFFFF",
+          "flex": 1,
+          "fontFamily": "Roboto-Light",
+          "fontSize": 18,
+          "marginLeft": 16,
+          "textAlignVertical": "bottom",
+        }
+      }
+    >
+      Уведомления
+    </Text>
+  </Component>
+</TouchableWithoutFeedback>
+`;

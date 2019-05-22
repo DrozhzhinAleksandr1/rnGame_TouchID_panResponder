@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot Input 1`] = `
+<Component
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "flexDirection": "column",
+      "width": "100%",
+    }
+  }
+>
+  <Component
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#FFFFFF",
+          "borderColor": "#ffffff",
+          "borderWidth": 2,
+          "flexDirection": "row",
+          "height": 40,
+          "justifyContent": "space-between",
+          "paddingLeft": 15,
+          "paddingRight": 15,
+          "width": 296,
+        },
+        null,
+      ]
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      onBlur={[Function]}
+      onChangeText={[Function]}
+      placeholderTextColor="#CECECE"
+      selectionColor="#5A6772"
+      style={
+        Array [
+          Object {
+            "backgroundColor": "white",
+            "color": "#000",
+            "fontFamily": "Roboto-Light",
+            "fontSize": 18,
+            "height": "100%",
+            "padding": 0,
+            "width": 252,
+          },
+          null,
+        ]
+      }
+      underlineColorAndroid="white"
+      value=""
+    />
+  </Component>
+  <ShowWarning
+    isshowwarning={false}
+  />
+</Component>
+`;

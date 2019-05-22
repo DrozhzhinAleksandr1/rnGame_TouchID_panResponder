@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot AnalysisDataBottom 1`] = `
+<Component
+  style={
+    Object {
+      "alignItems": "center",
+      "borderTopColor": "#5A6772",
+      "borderTopWidth": 0.25,
+      "flex": 3,
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "minHeight": 35,
+      "width": "90%",
+    }
+  }
+>
+  <Component
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "marginBottom": 10,
+      }
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#FFFFFF",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 11,
+          "lineHeight": 13,
+          "marginHorizontal": 5,
+        }
+      }
+    >
+      Показатели:
+      :
+    </Text>
+    <Up />
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#FFFFFF",
+          "fontFamily": "Roboto-Regular",
+          "fontSize": 12,
+          "lineHeight": 14,
+          "marginHorizontal": 5,
+        }
+      }
+    >
+      3
+    </Text>
+    <Down />
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#FFFFFF",
+          "fontFamily": "Roboto-Regular",
+          "fontSize": 12,
+          "lineHeight": 14,
+          "marginHorizontal": 5,
+        }
+      }
+    >
+      0
+    </Text>
+  </Component>
+  <Component
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "space-around",
+        "width": "100%",
+      }
+    }
+  >
+    <SlidingValue
+      number={0.94765}
+      text="R1:"
+    />
+    <SlidingValue
+      number={0.94276}
+      text="R2:"
+    />
+    <SlidingValue
+      number={0.94965}
+      text="R3:"
+    />
+  </Component>
+</Component>
+`;
